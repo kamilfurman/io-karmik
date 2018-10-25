@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/kamil/.platformio/penv/bin:/home/kamil/.platformio/penv:/home/kamil/.venvburrito/bin:/home/kamil/.pyenv/plugins/pyenv-virtualenv/shims:/home/kamil/.pyenv/shims:/home/kamil/.pyenv/bin:/home/kamil/.local/bin:/home/kamil/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
